@@ -12,4 +12,4 @@
 
 ---
 
-* [html_1]()
+* [html_1](https://github.com/petrmileshko/study_html/tree/main/lessons/html_1)
