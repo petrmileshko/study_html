@@ -4,7 +4,7 @@
 
  1. Установить редактор VS Code, необходимые расширения HTML Snippets, Auto Rename Tag, Live Server, Prettier — Code formatter,
    Bracket Pair Colorizer, Path Intellisense, Error Lens.
- 2. Настроbnm Prettier на автоформатирование при сохранении:
+ 2. Настроить Prettier на автоформатирование при сохранении:
    Открыть настройки VS Code (Ctrl+,).
    Найти параметр Editor: Format On Save - включть.
    Проверить, что Prettier выбран как форматер по умолчанию.
